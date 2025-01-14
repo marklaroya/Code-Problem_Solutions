@@ -1,10 +1,5 @@
 # Code Problem Solutions 💻🧠
 
-Welcome to the **Code Problem Solutions** repository! This is where I solve coding problems daily, learn from them, and share my solutions along with detailed explanations. 📝
-
-
-# Code Problem Solutions 💻🧠
-
 Welcome to the **Code Problem Solutions** repository! 🎉 T
 
 his is where I solve coding problems every day, learn from them, and share my solutions with detailed explanations. 📚
