@@ -1,9 +1,8 @@
 # Code Problem Solutions 💻🧠
 
-Welcome to the **Code Problem Solutions** repository! 🎉 T
+Welcome to the **Code Problem Solutions** repository! 🎉 
 
-his is where I solve coding problems every day, learn from them, and share my solutions with detailed explanations. 📚
-
+This is where I solve coding problems every day, learn from them, and share my solutions with detailed explanations. 📚
 The repository includes solutions to various coding challenges in multiple programming languages 💻, ranging from easy to hard problems. Each solution is accompanied by an in-depth explanation 📝 to help anyone who is learning or practicing programming.
 
 
