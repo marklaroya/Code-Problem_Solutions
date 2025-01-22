@@ -9,6 +9,6 @@ The repository includes solutions to various coding challenges in multiple progr
 
 This repository is part of my daily practice to **Code Every Day** 🚀 and improve my problem-solving skills. 
 
-I aim to solve at least two easy problems daily, and every Sunday is a **No Code Day** ⛔️ to rest and recharge.
+I aim to solve at least two easy problems daily, and every Saturday & Sunday is a **No Code Day** ⛔️ to rest and recharge.
 
 Feel free to explore, contribute, or use these solutions to enhance your own coding journey! 💪
